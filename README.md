@@ -25,8 +25,5 @@ An interactive Excel dashboard analyzing India's Consumer Price Index (CPI) and 
 - Year-wise Average CPI
 - Interactive Slicers
 
-## Dashboard Preview
-(Add dashboard screenshot here)
-
 ## Author
 **Aayushi Gupta**
